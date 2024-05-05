@@ -1,0 +1,36 @@
+.heddiv p {
+  display: inline-block;
+  margin-top: 0.5rem;
+}
+
+.und {
+  background-color: #212121;
+  margin: 2%;
+  margin-top: 1%;
+}
+
+.undertext {
+  margin-left: 4%;
+  margin-right: 4%;
+  font-size: 20pt;
+  overflow-wrap: break-word;
+}
+
+main .toph2 {
+  padding-bottom: 0;
+}
+main li {
+  padding-top: 1%;
+  text-decoration: none;
+  color: white;
+  margin-left: 5.5%;
+  font-size: 16pt;
+}
+main h2 {
+  padding: 2%;
+  font-size: 24pt;
+  color: #fff;
+}
+main .downul {
+  padding-bottom: 2%;
+}/*# sourceMappingURL=sass.css.map */

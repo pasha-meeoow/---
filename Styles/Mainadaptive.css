@@ -1,0 +1,323 @@
+@media only screen and (max-width: 1250px) {
+    .hdiv{
+        margin-left: 2%;
+        margin-right: 2%;
+    }
+}
+@media only screen and (max-width: 1160px){
+    *{
+        margin: 0;
+        padding: 0;
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    }
+    
+    .hdiv{
+        margin-top: 0.8rem;
+        
+    
+        width: fit-content;
+        height: fit-content;
+        float: inline-start;
+        font-size: 24pt;
+        margin-right: 2%;
+        margin-left: 2%;
+    }
+    a{
+        text-decoration: none;
+        color: white;
+        font-size: 16pt;
+    }
+    p{
+        text-decoration: none;
+        color: white;
+        font-size: 18pt;
+    }
+    
+    .logo{
+        width: 90px; 
+            height: 60px; 
+            transform: scale(0.04);
+        margin-right: 10%;
+        
+        float: inline-start;
+        position: relative;
+        left: -15px;
+        top: -8px;
+        
+    }
+    header{
+        margin-bottom: 1em;
+        text-align: center;
+        vertical-align: center;
+        height: 60px;
+        background-color: #212121;
+    }
+    body{
+        background-color: #111111;
+    }
+    
+    .dropdown-content {
+        display: none;
+        position: absolute;
+        background-color: #212121;
+        border: solid #111111;
+        box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+        padding: 20px;
+        z-index: 1;
+      }
+      
+      .closeButton {
+        color: white;
+        float: right;
+        font-size: 20px;
+        cursor: pointer;
+      }
+      
+      .closeButton:hover {
+        color: red;
+      }
+    
+      .doptext{
+        font-size: medium;
+        text-align: left;
+      }
+      
+      .heddiv{
+        margin-bottom: 1em;
+        text-align: center;
+        height: 50px;
+        background-color: #212121;
+      }
+      footer{
+        background-color: #212121;
+        height: 9.5em;
+      }
+      footer p{
+        float: left;
+        margin-left: 2%;
+        font-size: 16pt;
+      }
+      footer h2{
+        margin: 2%;
+        margin-bottom: 1.5%;
+        padding-top: 2%;
+        color: white;
+        font-size: 24pt;
+      }
+      footer img{
+        margin: 1.5%;
+        width: 7em;
+        float: right;
+      }
+      .mainp{
+        font-size:  14pt;
+      }
+      .block img{
+        transform: scale(0.8);
+      }
+      
+      .container .text{
+        font-size: 14pt;
+      }
+      .divbutton{
+        margin-top: 2%;
+      }
+      .btn p{
+        padding: 0;
+        margin: 0;
+        font-size: 14pt;
+      }
+      .form-container{
+        width: 60%;
+      }
+      .form-container p{
+        font-size: 14pt;
+      }
+      .undertext{
+        font-size: 14pt;
+      }
+      footer h2{
+        font-size: 16pt;
+      }
+      footer p{
+        font-size: 14pt;
+      }
+      footer img{
+        margin: 1% 1% 0 0;
+        transform: scale(0.8);
+      }
+      footer{
+        height: 120px;
+      }
+}
+@media only screen and (max-width: 719px){
+    .container{
+        display: block;
+    }
+    .block{
+        margin: 2%;
+    }
+    .hdiv{
+        display: none;
+        margin-top: 0.8rem;
+        
+    
+        width: fit-content;
+        height: fit-content;
+        float: inline-start;
+        font-size: 18pt;
+        margin-right: 2%;
+        margin-left: 2%;
+    }
+    a{
+        text-decoration: none;
+        color: white;
+        font-size: 12pt;
+    }
+    p{
+        text-decoration: none;
+        color: white;
+        font-size: 12pt;
+    }
+    
+    .logo{
+        width: 90px; 
+            height: 60px; 
+            transform: scale(0.03);
+        margin-right: 10%;
+        
+        float: inline-end;
+        position: relative;
+        left: -10px;
+        top: -12px;
+        
+    }
+    header{
+        margin-bottom: 1em;
+        text-align: center;
+        vertical-align: center;
+        height: 50px;
+        background-color: #212121;
+    }
+    body{
+        background-color: #111111;
+    }
+    
+    .dropdown-content {
+        display: none;
+        position: absolute;
+        background-color: #212121;
+        border: solid #111111;
+        box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+        padding: 20px;
+        z-index: 1;
+      }
+      
+      .closeButton {
+        color: white;
+        float: right;
+        font-size: 20px;
+        cursor: pointer;
+      }
+      
+      .closeButton:hover {
+        color: red;
+      }
+    
+      .doptext{
+        font-size: medium;
+        text-align: left;
+      }
+      
+      .heddiv{
+        margin-bottom: 1em;
+        text-align: center;
+        height: 40px;
+        background-color: #212121;
+      }
+      footer{
+        background-color: #212121;
+        height: 9.5em;
+      }
+      footer p{
+        float: left;
+        margin-left: 2%;
+        font-size: 14pt;
+      }
+      footer h2{
+        margin: 2%;
+        margin-bottom: 1.5%;
+        padding-top: 2%;
+        color: white;
+        font-size: 20pt;
+      }
+      footer img{
+        margin: 1.5%;
+        width: 7em;
+        float: right;
+      }
+      .mainp{
+        font-size:  14pt;
+      }
+      .block img{
+        transform: scale(0.8);
+      }
+      
+      .container .text{
+        font-size: 14pt;
+      }
+      .divbutton{
+        height: 40px;
+        margin-top: 2%;
+      }
+      .btn{
+        margin-left: 10%;
+        width: 80%;
+      }
+      .btn p{
+        padding: 0;
+        margin: 0;
+        font-size: 14pt;
+      }
+      .form-container{
+        width: 60%;
+      }
+      .form-container p{
+        font-size: 14pt;
+      }
+      .undertext{
+        font-size: 14pt;
+      }
+      .divbutton p{
+        font-size: 20pt;
+      }
+      footer h2{
+        font-size: 16pt;
+      }
+      footer p{
+        font-size: 14pt;
+      }
+      footer img{
+        margin: 1% 1% 0 0;
+        transform: scale(0.8);
+      }
+      footer{
+        height: 120px;
+      }
+      #dropdownBtn{
+        display: block;
+        float: inline-start;
+        width: 40px;
+        height: 40px;
+        margin-top: 5px;
+        margin-left: 10px;
+        background: none;
+        border: none;
+      }
+      
+      #dropdownBtn img{
+        margin: 0;
+        width: 40px;
+        height: 40px;
+      }
+}
