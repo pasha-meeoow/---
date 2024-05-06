@@ -135,3 +135,15 @@ body{
   .dropdownContent a:hover {
     background-color: #111111;
   }
+
+  a:hover{
+    color: lightgray;
+  }
+  .divbutton:hover{
+    font-weight: bolder;
+  }
+
+  .btn:hover{
+    font-weight: bolder;
+    transform: scale(1.05);
+  }
